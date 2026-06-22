@@ -77,6 +77,7 @@ _Tools that help other devs build, test, deploy, or index_
 - [Compact Syntax Highlighting for VS Code](https://github.com/foxytanuki/compact-vscode) - VS Code extension providing syntax highlighting for Compact smart contracts
 - [🔹 OpenZeppelin Compact Tools](https://github.com/OpenZeppelin/compact-tools) - Tools for compiling, building, and testing Compact smart contracts
 - [🔹 Web3Fast Midnight](https://midnight.web3fast.dev/) - Fast development tools and services for Midnight blockchain
+- [DPO2U Midnight Deploy Console](https://github.com/fredericosanntana/dpo2u-midnight-deploy-console) - Browser console (Vite + React) to deploy and interact with the DPO2U LGPD/GDPR Compact contracts using a Lace wallet via the dApp connector API
 - [DPO2U Midnight Relayer](https://github.com/fredericosanntana/dpo2u-midnight-relayer) - Cross-chain compliance relay for Midnight Network with ZK proofs
 - [Midnight Doctor](https://github.com/fredericosanntana/midnight-doctor) - CLI pre-flight check that cross-references SDK + Docker + config against a verified compatibility matrix to catch version mismatches and known bugs before silent failures - [npm](https://www.npmjs.com/package/midnight-doctor)
 - [Midnight Explorer](https://github.com/Tech-Expansion/midnight-explorer-web) - The leading block explorer on the Midnight Network, proudly built by TexLabs - [Website](https://www.midnightexplorer.com/)
