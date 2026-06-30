@@ -75,6 +75,7 @@ _Tools that help other devs build, test, deploy, or index_
 - [midnight-wallet-kit](https://www.npmjs.com/package/midnight-wallet-kit) - Lightweight toolkit for seamless wallet integration in Midnight dApps
 - [Compact Playground](https://github.com/Olanetsoft/compact-playground) - Browser-based Compact smart contract compiler, built as a companion to Learn Compact
 - [Compact Syntax Highlighting for VS Code](https://github.com/foxytanuki/compact-vscode) - VS Code extension providing syntax highlighting for Compact smart contracts
+- [compact.vim](https://github.com/1NickPappas/compact.vim) - Vim and Neovim plugin for the Compact language with syntax highlighting, Tree-sitter support, filetype detection, smart indentation, and compiler quickfix integration.
 - [🔹 OpenZeppelin Compact Tools](https://github.com/OpenZeppelin/compact-tools) - Tools for compiling, building, and testing Compact smart contracts
 - [🔹 Web3Fast Midnight](https://midnight.web3fast.dev/) - Fast development tools and services for Midnight blockchain
 - [DPO2U Midnight Deploy Console](https://github.com/fredericosanntana/dpo2u-midnight-deploy-console) - Browser console (Vite + React) to deploy and interact with the DPO2U LGPD/GDPR Compact contracts using a Lace wallet via the dApp connector API
@@ -126,6 +127,7 @@ _Privacy-preserving identity, credentials, and proof of personhood_
 - [Midnight Authenticator](https://github.com/subc0der/midnight-authenticator) - Zero-knowledge TOTP authenticator that proves code validity without revealing secrets
 - [Midnight Cloak](https://github.com/subc0der/midnight-cloak) - Zero-knowledge identity verification SDK enabling dApps to verify user attributes (age, credentials) without exposing personal data
 - [Private Data Management](https://github.com/Edgxtech/pdm-demo-app) - Private data management demonstration using decentralised ledgers ([article](https://medium.com/itnext/private-data-management-using-decentralised-ledgers-b972c6855e48))
+- [Proof-of-Age Gate](https://github.com/tomiin/midnight-proof-of-age) - Prove you meet a minimum age without revealing your birth year; ZK selective disclosure in Compact, with a React frontend wired to the 1AM wallet
 - [SentinelDID](https://github.com/bytewizard42i/SentinelDID-poc) - ZK identity and access prototype with selective attributes
 - [ZIP](https://github.com/oluwatobiss/zip-midnight-mlh-202605-hack) - A privacy-first Proof-of-Humanity application
 - [zkTanitID](https://github.com/carthagexlabs/zk-tanit-id) - Privacy-Preserving Identity Attestations, inspired by Tunisia’s digital sovereignty challenges
